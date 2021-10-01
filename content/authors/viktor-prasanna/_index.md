@@ -31,7 +31,7 @@ education:
     institution: Pennsylvania State University
     year: 1983
   - course: MS
-    institute: School of Automation, Indian Institute of Science
+    institution: School of Automation, Indian Institute of Science
     year:
   - course: BS in Electrical Engineering
     institution: University Visveswaraya College of Engineering (UVCE) of Bangalore University, India
