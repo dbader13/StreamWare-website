@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:test@dbrooks@eecs.harvard.edu"
+  link: "mailto:dbrooks@eecs.harvard.edu"
 # - icon: linkedin
 #   icon_pack: fab
 #   link: https://www.linkedin.com/in/dbader13/
