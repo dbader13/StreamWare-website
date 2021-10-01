@@ -17,9 +17,9 @@ organizations:
 bio: David Brooks is the Haley Family Professor of Computer Science, School of Engineering and Applied Sciences, at Harvard University.
 
 interests:
-- Data Science
-- High Performance Computing
-- Real-World Analytics
+- Computer architecture
+- Multi-layer hardware optimization
+- Embedded and High-Performance Computing
 
 education:
   courses:
