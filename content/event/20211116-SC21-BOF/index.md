@@ -30,7 +30,7 @@ authors:
 - Senjuti Basu Roy
 - Viktor Prasanna
 - Xuehai Qian
-- Zhuhui Du
+- Zhihui Du
 
 tags: []
 
