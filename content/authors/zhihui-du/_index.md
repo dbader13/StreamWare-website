@@ -18,7 +18,7 @@ organizations:
   url: "http://www.njit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr. Zhihui Du is a Research Scientist with the Institute for Data Science at the New Jersey Institute of Technology. Previously, he was an associate professor at the Department of Computer Science and Technology, Tsinghua University.
+bio: Zhihui Du is a Research Scientist with the Institute for Data Science at the New Jersey Institute of Technology. Previously, he was an associate professor at the Department of Computer Science and Technology, Tsinghua University.
 
 # interests:
 

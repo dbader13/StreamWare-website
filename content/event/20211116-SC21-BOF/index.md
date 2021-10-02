@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2021-10-02T13:35:31-04:00
 
 authors:
-- David Bader
+- David A. Bader
 - David Brooks
 - Sanmukh Rao Kuppannagari
 - Senjuti Basu Roy
