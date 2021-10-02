@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Streamware # Website name
+title: StreamWare # Website name
 baseurl: 'https://streamware.org/' # Website URL
-copyright: '© {year} Streamware Team' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} StreamWare Team' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

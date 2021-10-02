@@ -4,7 +4,7 @@ title: Zhihui Du
 
 # Username (this should match the folder name)
 authors:
-- du-zhihui
+- zhihui-du
 
 # Is this the primary user of the site?
 superuser: false

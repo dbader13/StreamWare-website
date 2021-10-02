@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Contact the Streamware Team
+title: Contact the StreamWare Team
 subtitle:
 
 content:
@@ -29,4 +29,4 @@ design:
   columns: '1'
 ---
 
-Please use this form to correspond with the Streamware Team.
+Please use this form to correspond with the StreamWare Team.

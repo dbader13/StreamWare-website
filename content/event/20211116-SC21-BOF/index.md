@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Streamware SC21 Birds of a Feather"
+title: "StreamWare SC21 Birds of a Feather"
 event: "ACM/IEEE Supercomputing (SC21)"
 event_url: "https://sc21.supercomputing.org/program/birds-of-a-feather/"
 location: "St. Louis, MO"
@@ -24,13 +24,14 @@ all_day: false
 publishDate: 2021-10-02T13:35:31-04:00
 
 authors:
-- David A. Bader
+- David Bader
 - David Brooks
 - Sanmukh Rao Kuppannagari
 - Senjuti Basu Roy
 - Viktor Prasanna
 - Xuehai Qian
 - Zhuhui Du
+
 tags: []
 
 # Is this a featured event? (true/false)
