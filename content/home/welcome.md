@@ -32,4 +32,5 @@ and
 Science* as part of the Principles and Practice of Scalable Systems
 (PPoSS) program.
 
+{{<figure src="img/NSF.png" width="200px" >}}
 

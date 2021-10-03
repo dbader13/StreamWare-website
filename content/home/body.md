@@ -10,8 +10,6 @@ design:
 ---
 
 
-{{<figure src="NSF.jpg">}}
-
 In grand-challenge scientific applications, the enormous amount of
 data produced by the sensing and instrumentation infrastructure often
 loses its value after a small window of time. Thus, to obtain
