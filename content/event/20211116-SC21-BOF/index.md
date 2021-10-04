@@ -17,7 +17,7 @@ abstract: "This Birds-of-a-Feather session brings together a diverse community o
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2021-11-16T00:00:00-05:00
-date_end: 2021-11-16T00:00:00-05:00
+date_end: 2021-11-16T01:00:00-05:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
