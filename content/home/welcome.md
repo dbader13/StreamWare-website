@@ -8,8 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
   StreamWare Project
-#hero_media: NSF.png
-hero_media: StreamWare-logo.png
+hero_media: NSF.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -31,6 +30,4 @@ and
 *StreamWare - A Scalable Framework for Accelerating Streaming Data
 Science* as part of the Principles and Practice of Scalable Systems
 (PPoSS) program.
-
-{{<figure src="img/NSF.png" width="200px" >}}
 
