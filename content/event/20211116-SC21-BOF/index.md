@@ -3,7 +3,7 @@
 
 title: "StreamWare SC21 Birds of a Feather"
 event: "ACM/IEEE Supercomputing (SC21)"
-event_url: "https://sc21.supercomputing.org/program/birds-of-a-feather/"
+event_url: "https://sc21.supercomputing.org/presentation/?id=bof153&sess=sess395"
 location: "St. Louis, MO"
 address:
   street:
@@ -16,8 +16,8 @@ abstract: "This Birds-of-a-Feather session brings together a diverse community o
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-11-16T00:00:00-05:00
-date_end: 2021-11-16T01:00:00-05:00
+date: 2021-11-16T12:15:00-05:00
+date_end: 2021-11-16T13:15:00-05:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
