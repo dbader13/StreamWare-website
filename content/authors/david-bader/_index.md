@@ -17,7 +17,7 @@ organizations:
   url: "http://www.njit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: David A. Bader is a Distinguished Professor in the Department of Computer Science at New Jersey Institute of Technology.
+bio: David A. Bader is a Distinguished Professor and founder of the Department of Data Science at New Jersey Institute of Technology.
 
 interests:
 - Data Science
@@ -97,4 +97,4 @@ user_groups:
 
 ---
 
-David A. Bader is a Distinguished Professor in the [Department of Computer Science](https://cs.njit.edu/) and founder of the Department of Data Science in the [Ying Wu College of Computing](https://computing.njit.edu/) and Director of the [Institute for Data Science](https://datascience.njit.edu/) at [New Jersey Institute of Technology](https://www.njit.edu/). Prior to this, he served as founding Professor and Chair of the School of Computational Science and Engineering, College of Computing, at Georgia Institute of Technology. He is a Fellow of the IEEE, AAAS, and SIAM.
+David A. Bader is a Distinguished Professor and founder of the [Department of Data Science](https://ds.njit.edu/) in the [Ying Wu College of Computing](https://computing.njit.edu/) and Director of the [Institute for Data Science](https://datascience.njit.edu/) at [New Jersey Institute of Technology](https://www.njit.edu/). Prior to this, he served as founding Professor and Chair of the School of Computational Science and Engineering, College of Computing, at Georgia Institute of Technology. He is a Fellow of the IEEE, ACM, AAAS, and SIAM, and a recipient of the IEEE Sidney Fernbach Award.
